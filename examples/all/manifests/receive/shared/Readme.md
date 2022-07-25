@@ -1,0 +1,1 @@
+defaultとregion1の両方必要
